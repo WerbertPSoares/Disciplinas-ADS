@@ -1,4 +1,4 @@
-package APOO.praticas;
+package APOO.praticas.area;
 public class AreaTriangulo {
 
     public static void main(String[] args) {
